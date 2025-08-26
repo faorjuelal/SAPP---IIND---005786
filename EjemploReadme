@@ -1,0 +1,21 @@
+# Taller: Bici al Trabajo
+
+## Enunciado del Problema
+
+Un ayuntamiento quiere fomentar el uso de la bicicleta como medio de transporte para ir al trabajo. Para ello, ha recopilado datos anónimos de trayectos en bicicleta dentro de la ciudad. El objetivo del análisis es identificar patrones de uso, picos de actividad y posibles factores que influyan en la elección de la bicicleta como medio de transporte, para así poder mejorar la infraestructura ciclista y las campañas de promoción.
+
+## Responsables del Proyecto
+
+| Apellidos       | Nombre    | Rama de GitHub | Enlace a Colab |
+|-----------------|-----------|----------------|----------------|
+| Pérez García    | Ana       | `feature/ana`  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/Taller_Bici_al_Trabajo.ipynb) |
+| López Martínez  | Carlos    | `feature/carlos` |                |
+| Fernández Soria | María     | `feature/maria`  |                |
+
+*Nota: Cada integrante debe actualizar su fila con el enlace a su propia copia de trabajo en Google Colab.*
+
+## Cómo Empezar
+
+1.  **Abre el notebook en Colab:** Haz clic en el badge "Open in Colab" de arriba para abrir una copia en la que puedes experimentar.
+2.  **Haz una copia en tu drive:** En Colab, ve a `Archivo -> Guardar una copia en Drive` para tener tu propia versión editable.
+3.  **Cuando termines una parte,** descarga tu notebook (`Archivo -> Descargar -> Descargar .ipynb`) y súbelo a tu rama en GitHub para hacer un Pull Request.
